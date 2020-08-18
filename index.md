@@ -8,7 +8,7 @@ You can write me an email to martin@knechtel.eu. If you need encryption you may 
 - [Xing](https://www.xing.com/profile/Martin_Knechtel)
 - [Twitter](https://twitter.com/marddl)
 - [Facebook](http://www.facebook.com/martin.knechtel)
-- [Amazon](http://www.amazon.de/gp/pdp/profile/ref=sv_ys_5)
+- [Amazon](https://www.amazon.de/gp/profile/amzn1.account.AGHXK3V6JTKEX4ZZ5WMPP5NIES2Q)
 - [Patents](https://patents.google.com/?inventor=martin+knechtel)
 - [Google Scholar](http://scholar.google.com/citations?user=3nTyLOUAAAAJ)
 - [Researchgate](http://www.researchgate.net/profile/Martin_Knechtel/)
