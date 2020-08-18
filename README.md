@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Martin Knechtel
 
-You can use the [editor on GitHub](https://github.com/martinknechtel/martinknechtel.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can write me an email here: martin@knechtel.eu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[PGP-Key](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0xCAE5E700F4276D9D)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/martinknechtel/martinknechtel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Profiles
+[Twitter](https://twitter.com/marddl)
+[Facebook](http://www.facebook.com/martin.knechtel)
+[Amazon](http://www.amazon.de/gp/pdp/profile/ref=sv_ys_5)
+[LinkedIn](http://www.linkedin.com/in/martinknechtel)
+[Google Scholar](http://scholar.google.com/citations?user=3nTyLOUAAAAJ)
+[Researchgate](http://www.researchgate.net/profile/Martin_Knechtel/)
+[TU Dresden](https://iccl.inf.tu-dresden.de/web/Martin_Knechtel/en)
+[Mathematics Genealogy](http://genealogy.math.ndsu.nodak.edu/id.php?id=150851)
