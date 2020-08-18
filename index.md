@@ -1,6 +1,6 @@
 # Dr. Martin Knechtel
 
-You can write me an email to martin@knechtel.eu. If you need encryption you may use my [PGP-Key](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0xCAE5E700F4276D9D))
+You can write me an email to martin@knechtel.eu. If you need encryption you may use my [PGP-Key](http://pgp.mit.edu:11371/pks/lookup?op=get&search=0xCAE5E700F4276D9D)
 
 ## Profiles
 
