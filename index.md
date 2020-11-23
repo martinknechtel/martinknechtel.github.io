@@ -14,3 +14,4 @@ You can write me an email to martin@knechtel.eu. If you need encryption you may 
 - [Researchgate](http://www.researchgate.net/profile/Martin_Knechtel/)
 - [TU Dresden](https://iccl.inf.tu-dresden.de/web/Martin_Knechtel/en)
 - [Mathematics Genealogy](http://genealogy.math.ndsu.nodak.edu/id.php?id=150851)
+- [Folding@home](https://stats.foldingathome.org/donor/Knechtel)
