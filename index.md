@@ -11,6 +11,7 @@ You can write me an email to bio@knechtel.eu. If you need encryption you may use
 - [Amazon](https://www.amazon.de/gp/profile/amzn1.account.AGHXK3V6JTKEX4ZZ5WMPP5NIES2Q)
 - [Patents](https://patents.google.com/?inventor=martin+knechtel)
 - [Google Scholar](http://scholar.google.com/citations?user=3nTyLOUAAAAJ)
+- [Bibsonomy](http://www.bibsonomy.org/author/Martin+Knechtel?sortPage=year&sortPageOrder=desc)
 - [Researchgate](http://www.researchgate.net/profile/Martin_Knechtel/)
 - [TU Dresden](https://iccl.inf.tu-dresden.de/web/Martin_Knechtel/en)
 - [Mathematics Genealogy](http://genealogy.math.ndsu.nodak.edu/id.php?id=150851)
