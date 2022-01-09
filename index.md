@@ -6,7 +6,7 @@ You can write me an email to bio@knechtel.eu. If you need encryption you may use
 
 - [LinkedIn](http://www.linkedin.com/in/martinknechtel)
 - [Xing](https://www.xing.com/profile/Martin_Knechtel)
-- [Twitter](https://twitter.com/marddl)
+- [Twitter](https://twitter.com/wasmitsoftware)
 - [Youtube](https://www.youtube.com/channel/UC373wrIhjTB19IQ4-OsYWjQ)
 - [Amazon](https://www.amazon.de/gp/profile/amzn1.account.AGHXK3V6JTKEX4ZZ5WMPP5NIES2Q)
 - [Patents](https://patents.google.com/?inventor=martin+knechtel)
