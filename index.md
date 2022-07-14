@@ -8,6 +8,8 @@ You can write me an email to bio@knechtel.eu. If you need encryption you may use
 - [Xing](https://www.xing.com/profile/Martin_Knechtel)
 - [Twitter](https://twitter.com/wasmitsoftware)
 - [Youtube](https://www.youtube.com/channel/UC373wrIhjTB19IQ4-OsYWjQ)
+- [Stack Overflow private](https://stackoverflow.com/users/1700583)
+- [Stack Overflow     SAP](https://stackoverflow.com/users/888180)
 - [Amazon](https://www.amazon.de/gp/profile/amzn1.account.AGHXK3V6JTKEX4ZZ5WMPP5NIES2Q)
 - [Patents](https://patents.google.com/?inventor=martin+knechtel)
 - [Google Scholar](http://scholar.google.com/citations?user=3nTyLOUAAAAJ)
