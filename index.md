@@ -6,6 +6,7 @@ You can write me an email to bio@knechtel.eu. If you need encryption you may use
 
 - [LinkedIn](http://www.linkedin.com/in/martinknechtel)
 - [Xing](https://www.xing.com/profile/Martin_Knechtel)
+- [Linux Foundation](https://openprofile.dev/profile/wasmitsoftware)
 - [Twitter](https://twitter.com/wasmitsoftware)
 - [Youtube](https://www.youtube.com/channel/UC373wrIhjTB19IQ4-OsYWjQ)
 - [Stack Overflow private](https://stackoverflow.com/users/1700583)
